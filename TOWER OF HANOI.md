@@ -32,6 +32,8 @@ Consider the names of the tower pegs as A, B, C. Get the number of disks value f
 ### PROGRAM  
 
 ```
+#Reg.NO 212222060159
+#Name Nareshkumaran S
 
 def TowerOfHanoi(n , source, destination, auxiliary):
 	
