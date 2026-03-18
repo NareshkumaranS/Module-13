@@ -1,4 +1,4 @@
-# Exp.No:31  
+# Exp.No:13b  
 ## IMPLEMENTATION OF STACK
 
 ---
