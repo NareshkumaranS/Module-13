@@ -28,6 +28,9 @@ To write a Python program to evaluate a user-given Prefix expression using a sta
 ### PROGRAM
 
 ```
+#Reg.NO 212222060159
+#Name Nareshkumaran S
+
 OPERATORS=set(['*','-','+','%','/','**']) 
 def evaluate(expression):
 	stack = []
