@@ -27,6 +27,9 @@ To write a Python program to implement a stack using a list and its built-in met
 ### PROGRAM
 
 ```
+#Reg.NO 212222060159
+#Name Nareshkumaran S
+
 stack = []
 stack.append(input())
 stack.append(input())
